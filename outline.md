@@ -10,9 +10,6 @@ A list of great books that college students should read:
 
 ## Topics
 
-- Conversation skills
-  - Examples
-  - Theory
 - Metalearning
   - application of learning to
     - social
@@ -20,19 +17,24 @@ A list of great books that college students should read:
     - intellectual
   - growth mindset
   - Social Intelligence
+- Finding Purpose
+  - Doing something you love
+  - definition of success
+  - defining core values
+- Love
+- Adulthood
+  - Trying things
+  - Variance
+  - Accepting change
 - Emotional development
   - CBT
   - Families
+- Empathy
+  - Art
+  - Conversation
+  - Social intelligence
 - Cultural Landscape
   - building community
   - finding friendships
   - Language / PC culture
   - Big / Small
-- Finding Purpose
-  - Doing something you love
-  - definition of success
-  - defining core values
-- Adulthood
-  - Trying things
-  - Variance
-  - Accepting change
