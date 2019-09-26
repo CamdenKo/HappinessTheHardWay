@@ -1,17 +1,5 @@
 # Intro
 
-## Outline
-
-- Anecdote
-- Purpose
-- Who should read this
-- Why i'm qualified to write this
-- Outline of program
-  - videos
-  - books
-  - audio
-  - questions
-
 This is not a self-help guide. This is an actualization toolkit.
 
 As a self diagnosed self-help addict, I've perused every blog offering "9 Ways to Find Purpose", books teaching "How to Win Friends and Influence People", and YouTube video essays on self actualization that could possibly improve my life. The problem with most of this content comes from the fact that the advice is *perscriptive*, as if every single human being from a million different walks of life can add a couple habits, change the way they percieve problems, or take ice cold showers every morning and find happiness.
